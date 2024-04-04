@@ -70,6 +70,10 @@
 
 /* Exercice 11 */
 
+    .exercice11 ul:nth-child(24){
+        border: 2px solid red;
+    }
+
 
 /* Exercice 12 */
 
